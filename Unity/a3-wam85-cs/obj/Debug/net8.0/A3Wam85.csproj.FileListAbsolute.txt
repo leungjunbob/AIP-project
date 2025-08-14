@@ -1,0 +1,14 @@
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\A3Wam85.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\A3Wam85.AssemblyInfoInputs.cache
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\A3Wam85.AssemblyInfo.cs
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\A3Wam85.csproj.CoreCompileInputs.cache
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\A3Wam85.exe
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\A3Wam85.deps.json
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\A3Wam85.runtimeconfig.json
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\A3Wam85.dll
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\A3Wam85.pdb
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\A3Wam85.dll
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\refint\A3Wam85.dll
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\A3Wam85.pdb
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\A3Wam85.genruntimeconfig.cache
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\ref\A3Wam85.dll

@@ -1,0 +1,14 @@
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\TestProject.exe
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\TestProject.dll
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\bin\Debug\net8.0\TestProject.pdb
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\TestProject.dll
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\TestProject.pdb
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\Bough\Documents\comp90054\a3-wam85-cs\obj\Debug\net8.0\ref\TestProject.dll

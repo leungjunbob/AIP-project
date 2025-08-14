@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>5</WarningLevel>
+    <AnalysisLevel>latest</AnalysisLevel>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Utils.cs" />
+    <Compile Include="Template.cs" />
+    <Compile Include="Game.cs" />
+    <!-- <Compile Include="GeneralGameRunner.cs" /> -->
+    <Compile Include="Splendor/SplendorUtils.cs" />
+    <Compile Include="Splendor/SplendorModel.cs" />
+    <Compile Include="Splendor/SplendorDisplayer.cs" />
+    <Compile Include="agents/generic/RandomAgent.cs" />
+    <Compile Include="agents/generic/FirstMoveAgent.cs" />
+    <!-- <Compile Include="agents/generic/TimeoutAgent.cs" /> -->
+    <Compile Include="agents/t_085/MyTeamAgent.cs" />
+    <Compile Include="agents/t_085/otherAgents/BfsLAgent.cs" />
+    <Compile Include="TestVs.cs" />
+  </ItemGroup>
+
+</Project> 
