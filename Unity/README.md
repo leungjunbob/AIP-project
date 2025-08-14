@@ -7,7 +7,7 @@
 
 ## Main Menu(主界面)
 <p align="center">
-  <img width="600" height="319" alt="image" src="https://github.com/user-attachments/assets/afa15b48-1c89-4d0f-836d-48dd56171b57" />
+  <img width="600" height="319" alt="image" src="Pictures/picture1.png" />
 </p>
 
 This is the game start screen, where you can select the agent for player 1 and 2 (human, random, preferred) and set the time for each round.
@@ -17,7 +17,7 @@ This is the game start screen, where you can select the agent for player 1 and 2
 ## Gem Collect pannel(宝石收集界面)
 
 <p align="center">
-  <img width="600" height="345" alt="image" src="https://github.com/user-attachments/assets/73d2df8a-9a8f-4a64-bd1d-5aac6aee0e77" />
+  <img width="600" height="345" alt="image" src="Pictures/picture2.png" />
 </p>
 
 This is the Gem Collection screen. Click any Gem in the right frame to enter. Click the "Cancel" button to exit this screen.
@@ -28,7 +28,7 @@ Use the "+" and "-" buttons to select the Gems you want to collect/return,  Clic
 ## Top Information Bar(顶部信息显示栏)
 
 <p align="center">
-  <img width="600" height="41" alt="image" src="https://github.com/user-attachments/assets/f4518848-17a8-4bd8-afd5-e9ad20bcca22" />
+  <img width="600" height="41" alt="image" src="Pictures/picture3.png" />
 </p>
 
 This is the top information display bar, which shows which player's turn it is in the current round, the scores of Player 1 and Player 2, and the remaining time of the current round.
@@ -38,7 +38,7 @@ This is the top information display bar, which shows which player's turn it is i
 ## Buy Card Logit(买卡逻辑)
 
 <p align="center">
-  <img width="600" height="420" alt="image" src="https://github.com/user-attachments/assets/947029fa-e8c3-492c-b87a-2ced4b859c7b" />
+  <img width="600" height="420" alt="image" src="Pictures/picture4.png" />
 </p>
 
 Clicking on any card on the table will pop up the "reserve" (add the card to the player's reserve area) and "buy" (pay the price to buy the gem) buttons.
@@ -46,7 +46,7 @@ Clicking on any card on the table will pop up the "reserve" (add the card to the
 点击牌桌任意一张卡都会弹出“reserve”（把卡加入到玩家的保留区域）和“buy”（支付代价购买宝石）按钮。
 
 <p align="center">
-  <img width="600" height="479" alt="image" src="https://github.com/user-attachments/assets/d2238210-3f88-4460-ba2a-37c7cc6bfd0f" />
+  <img width="600" height="479" alt="image" src="Pictures/picture5.png" />
 </p>
 
 This is the card purchase interface, which will use text to describe the information of this card and calculate the price required to purchase the current card (after deducting the gems provided by the player for the purchased card).
@@ -56,7 +56,7 @@ This is the card purchase interface, which will use text to describe the informa
 ## Noble Area(贵族卡区域)
 
 <p align="center">
-  <img width="48" height="200" alt="image" src="https://github.com/user-attachments/assets/3eca00c1-f56d-47e4-94e1-2a89e62a586c" />
+  <img width="48" height="200" alt="image" src="Pictures/picture6.png" />
 </p>
 
 This is the noble card area. After meeting the nobility conditions, it will be automatically added to the player information display area without any additional operations.
@@ -66,7 +66,7 @@ This is the noble card area. After meeting the nobility conditions, it will be a
 ## Play Info Display Area(玩家信息展示区)
 
 <p align="center">
-  <img width="161" height="400" alt="image" src="https://github.com/user-attachments/assets/7e5bf88a-19c5-4f38-8f69-c1d152893791" />
+  <img width="161" height="400" alt="image" src="Pictures/picture7.png" />
 </p>
 
 This is the player information display area, showing the player's name, the player's score, the cards the player has purchased and retained, and the nobles the player has attracted.
@@ -77,7 +77,7 @@ When you click on the reserved card in your area, if you have enough resources t
 ## Victory (胜利结算画面)
 
 <p align="center">
-  <img width="600" height="428" alt="image" src="https://github.com/user-attachments/assets/3463a576-bef6-4805-bfab-505edc9180b7" />
+  <img width="600" height="428" alt="image" src="Pictures/picture8.png" />
 </p>
 
 When the winner appears, click the middle button to return to the main interface and start the next round of the game.
