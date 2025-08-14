@@ -6,8 +6,9 @@
 [中文版](https://github.com/leungjunbob/AIP-project/blob/main/Unity/Splendor_Chinese.pdf)
 
 ## Main Menu(主界面)
-
-<img width="1132" height="603" alt="image" src="https://github.com/user-attachments/assets/afa15b48-1c89-4d0f-836d-48dd56171b57" />
+<p align="center">
+  <img width="600" height="319" alt="image" src="https://github.com/user-attachments/assets/afa15b48-1c89-4d0f-836d-48dd56171b57" />
+</p>
 
 This is the game start screen, where you can select the agent for player 1 and 2 (human, random, preferred) and set the time for each round.
 
@@ -15,7 +16,9 @@ This is the game start screen, where you can select the agent for player 1 and 2
 
 ## Gem Collect pannel(宝石收集界面)
 
-<img width="1425" height="820" alt="image" src="https://github.com/user-attachments/assets/73d2df8a-9a8f-4a64-bd1d-5aac6aee0e77" />
+<p align="center">
+  <img width="600" height="345" alt="image" src="https://github.com/user-attachments/assets/73d2df8a-9a8f-4a64-bd1d-5aac6aee0e77" />
+</p>
 
 This is the Gem Collection screen. Click any Gem in the right frame to enter. Click the "Cancel" button to exit this screen.
 Use the "+" and "-" buttons to select the Gems you want to collect/return,  Click the "Confirm" button to confirm your selection. Please note that the Gems you select must comply with the game rules.
@@ -24,7 +27,9 @@ Use the "+" and "-" buttons to select the Gems you want to collect/return,  Clic
 
 ## Top Information Bar(顶部信息显示栏)
 
-<img width="1158" height="79" alt="image" src="https://github.com/user-attachments/assets/f4518848-17a8-4bd8-afd5-e9ad20bcca22" />
+<p align="center">
+  <img width="600" height="41" alt="image" src="https://github.com/user-attachments/assets/f4518848-17a8-4bd8-afd5-e9ad20bcca22" />
+</p>
 
 This is the top information display bar, which shows which player's turn it is in the current round, the scores of Player 1 and Player 2, and the remaining time of the current round.
 
@@ -32,13 +37,17 @@ This is the top information display bar, which shows which player's turn it is i
 
 ## Buy Card Logit(买卡逻辑)
 
-<img width="1055" height="739" alt="image" src="https://github.com/user-attachments/assets/947029fa-e8c3-492c-b87a-2ced4b859c7b" />
+<p align="center">
+  <img width="600" height="420" alt="image" src="https://github.com/user-attachments/assets/947029fa-e8c3-492c-b87a-2ced4b859c7b" />
+</p>
 
 Clicking on any card on the table will pop up the "reserve" (add the card to the player's reserve area) and "buy" (pay the price to buy the gem) buttons.
 
 点击牌桌任意一张卡都会弹出“reserve”（把卡加入到玩家的保留区域）和“buy”（支付代价购买宝石）按钮。
 
-<img width="1001" height="799" alt="image" src="https://github.com/user-attachments/assets/d2238210-3f88-4460-ba2a-37c7cc6bfd0f" />
+<p align="center">
+  <img width="600" height="479" alt="image" src="https://github.com/user-attachments/assets/d2238210-3f88-4460-ba2a-37c7cc6bfd0f" />
+</p>
 
 This is the card purchase interface, which will use text to describe the information of this card and calculate the price required to purchase the current card (after deducting the gems provided by the player for the purchased card).
 
@@ -46,7 +55,9 @@ This is the card purchase interface, which will use text to describe the informa
 
 ## Noble Area(贵族卡区域)
 
-<img width="114" height="467" alt="image" src="https://github.com/user-attachments/assets/3eca00c1-f56d-47e4-94e1-2a89e62a586c" />
+<p align="center">
+  <img width="48" height="200" alt="image" src="https://github.com/user-attachments/assets/3eca00c1-f56d-47e4-94e1-2a89e62a586c" />
+</p>
 
 This is the noble card area. After meeting the nobility conditions, it will be automatically added to the player information display area without any additional operations.
 
@@ -54,7 +65,9 @@ This is the noble card area. After meeting the nobility conditions, it will be a
 
 ## Play Info Display Area(玩家信息展示区)
 
-<img width="338" height="841" alt="image" src="https://github.com/user-attachments/assets/7e5bf88a-19c5-4f38-8f69-c1d152893791" />
+<p align="center">
+  <img width="161" height="400" alt="image" src="https://github.com/user-attachments/assets/7e5bf88a-19c5-4f38-8f69-c1d152893791" />
+</p>
 
 This is the player information display area, showing the player's name, the player's score, the cards the player has purchased and retained, and the nobles the player has attracted.
 When you click on the reserved card in your area, if you have enough resources to purchase it, the card purchase interface will pop up.
@@ -63,7 +76,9 @@ When you click on the reserved card in your area, if you have enough resources t
 
 ## Victory (胜利结算画面)
 
-<img width="1263" height="900" alt="image" src="https://github.com/user-attachments/assets/3463a576-bef6-4805-bfab-505edc9180b7" />
+<p align="center">
+  <img width="600" height="428" alt="image" src="https://github.com/user-attachments/assets/3463a576-bef6-4805-bfab-505edc9180b7" />
+</p>
 
 When the winner appears, click the middle button to return to the main interface and start the next round of the game.
 
