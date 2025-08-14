@@ -8,6 +8,14 @@ The purpose of this project is to implement a Splendor Autonomous Agent that can
  
  **Please carefully read the rules of the [Splendor game](https://cdn.1j1ju.com/medias/7f/91/ba-splendor-rulebook.pdf)**. Splendor can be understood as a sequential decision problem about resource management. Understanding it well and designing a controller for it is part of the expectations for this project. 
  
+## Acknowledgement 
+**Original author**: Steven Spratley
+
+**Extending code**: Guang Ho and Michelle Blom
+
+**Unity Game Implementation**: leungjunbo
+
+**Tools**: Cursor, Unity (Almost all the C# code is written using Cursor, so don't blame me if it sh*t.)
 
 ## Task
  
@@ -40,3 +48,19 @@ When submitting a solution, please make absolutely sure you adhere to the follow
 * You are **not to change or affect (e.g., redirect) the standard output or error channels** (`sys.stdout` and `sys.stderr`) beyond just printing on standard output, including `logging`. If your file mentions any of them it will be breaking the "fair play" of the course (see below). These are used to report each game output and errors, and they should not be altered as you will be interfering negatively with the contest and with the other team's printouts. 
 
 * Being a group assignment, you must **use your project Github** repository and GitHub team to collaborate among the members. The group will have write access to the same repository, and also be members of a GitHub team, where members can, and are expected to, engage in discussions and collaboration. Refer to the marking criteria below. 
+
+## Install the Game (安装游戏)
+
+Currently only supports Windows. If you need a web version or mobile version, please download the [Unity project](https://github.com/leungjunbob/AIP-project/tree/main/Unity) and build it yourself.
+
+目前仅支持 Windows。如果您需要网页版或移动版，请下载 [Unity 项目](https://github.com/leungjunbob/AIP-project/tree/main/Unity)并自行构建。
+
+Download this [file](https://github.com/leungjunbob/AIP-project/blob/main/Unity/Splendor/Splendor.exe)（下载该[文件](https://github.com/leungjunbob/AIP-project/blob/main/Unity/Splendor/Splendor.exe)）
+
+## Future Updating Plan（未来更新计划）
+* Support for BFS agents (Easy difficulty)， 支持 BFS agent（简单难度）
+* Support for DQN agents (Medium difficulty)， 支持 DQN agent (中等难度)
+* Support for Minimax agents (Hard difficulty)， 支持 Minimax agent（困难难度
+* Improved UI (menu button, image display position)， 美化 UI（游戏中菜单按钮，图片显示位置）
+* Support for 3- and 4-player games， 支持 3、4 个玩家游戏
+* Bug fixes， 修复 Bug
